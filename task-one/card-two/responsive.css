@@ -1,0 +1,23 @@
+@media screen and (max-width: 400px) {
+  .card__img__container {
+    width: 100%;
+    height: 100%;
+  }
+  .card {
+    width: 90%;
+  }
+  .card__title {
+    font-size: 2rem;
+    word-break: break-all;
+  }
+}
+@media screen and (max-width: 750px) {
+  .card {
+    width: 70%;
+  }
+  .card__title {
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 5rem;
+  }
+}/*# sourceMappingURL=responsive.css.map */

@@ -1,0 +1,21 @@
+@media screen and (max-width: 300px) {
+  .card__title {
+    word-break: break-all;
+  }
+  .card__description {
+    word-break: break-all;
+  }
+}
+
+@media screen and (max-width: 668px) {
+  .card {
+    width: 70%;
+  }
+  .card__content {
+    padding: 100px 40px;
+  }
+  .card__title {
+    letter-spacing: 5px;
+    font-size: 25px;
+  }
+}
