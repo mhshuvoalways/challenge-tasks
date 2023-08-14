@@ -4,10 +4,10 @@ All the tasks for interview challenges. This was amazing.
 
 
 ## Live Link
-Task one and card one on live: https://taskone-card-one.netlify.app
-Task one and card two on live: https://taskone-card-two.netlify.app
-Task three on live: https://taskthree.cyclic.app
-Task four on live: https://open-challenge-tic-tac-toe.netlify.app
+Task one and card one on live: https://taskone-card-one.netlify.app <br/>
+Task one and card two on live: https://taskone-card-two.netlify.app <br/>
+Task three on live: https://taskthree.cyclic.app <br/>
+Task four on live: https://open-challenge-tic-tac-toe.netlify.app <br/>
 
 
 ## Describes
